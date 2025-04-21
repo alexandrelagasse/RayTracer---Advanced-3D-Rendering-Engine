@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.13)
+
+add_subdirectory(PerspectiveCamera)
+add_subdirectory(Plane)
+add_subdirectory(PointLight)
+add_subdirectory(SimpleMaterial)
+add_subdirectory(Sphere)
+add_subdirectory(Cone)
+add_subdirectory(Cylinder)
+add_subdirectory(Triangle)
+add_subdirectory(PlaneMaterial)
+add_subdirectory(DirectionalLight)
+add_subdirectory(SimpleSkybox)
